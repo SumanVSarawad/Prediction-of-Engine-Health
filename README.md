@@ -26,11 +26,11 @@ Engine Condition: The engine condition parameter provides an indication of the o
 ![boxplots](https://github.com/SumanVSarawad/Prediction-of-Engine-Health/assets/118813644/dcc5725b-538f-4507-b1b8-a2ad4f2b3b68)
 As observable, there are many outliers in the data. We will do an outlier analysis using Z score for the coolant temp column and IQR method for the rest. 
 
-The no. of outliers in Engine rpm is 464
-The no. of outliers in Lub oil pressure is 66
-The no. of outliers in Fuel pressure is 1135
-The no. of outliers in Coolant pressure is 785
-The no. of outliers in lub oil temp is 2617
+The no. of outliers in Engine rpm is 464 <br>
+The no. of outliers in Lub oil pressure is 66<br>
+The no. of outliers in Fuel pressure is 1135<br>
+The no. of outliers in Coolant pressure is 785<br>
+The no. of outliers in lub oil temp is 2617<br>
 
 ## Results
 LogisticRegression 
@@ -45,3 +45,5 @@ Random Forest Classifier Hyperparameter tuning
 Accuracy Score: 66.21621621621621
 F1 Score: 0.7622478386167146
 
+Reference:
+Kaggle
