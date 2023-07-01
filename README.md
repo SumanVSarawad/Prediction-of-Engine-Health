@@ -33,17 +33,17 @@ The no. of outliers in Coolant pressure is 785<br>
 The no. of outliers in lub oil temp is 2617<br>
 
 ## Results
-LogisticRegression 
-Accuracy Score: 65.06961506961507
-F1 Score: 0.7564944333428489
-
-Random Forest Classifier 
-Accuracy Score: 64.78296478296478
-F1 Score: 0.7407295749170938
-
-Random Forest Classifier Hyperparameter tuning
-Accuracy Score: 66.21621621621621
-F1 Score: 0.7622478386167146
+LogisticRegression <br>
+Accuracy Score: 65.06961506961507<br>
+F1 Score: 0.7564944333428489<br>
+<br>
+Random Forest Classifier <br>
+Accuracy Score: 64.78296478296478<br>
+F1 Score: 0.7407295749170938<br>
+<br>
+Random Forest Classifier Hyperparameter tuning<br>
+Accuracy Score: 66.21621621621621<br>
+F1 Score: 0.7622478386167146<br>
 
 Reference:
 Kaggle
